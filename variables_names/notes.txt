@@ -1,0 +1,4 @@
+Stuck in a script tips:
+1. Write a comment above each line explaining to myself in english what it does
+2. Read code file backward
+3. Read code file loudly and saying every character

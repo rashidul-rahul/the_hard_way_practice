@@ -1,0 +1,4 @@
+Learn string format...
+ 
+ We can round a number by round() function like: round(1.2222)
+ 

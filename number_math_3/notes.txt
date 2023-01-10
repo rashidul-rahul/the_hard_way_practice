@@ -1,0 +1,15 @@
+Python follow PEMDAS for mathematical operations.
+Here PEMDAS stand for:
+
+P => Parenthesis
+E => Exponential
+M => Multiplication
+D => Division
+A => Addition
+S => Subtraction
+
+But it is not in a strict mode.
+It actually do the Multiplication and Division in a same step from left to right,
+Same the Addition and Subtraction do in same step.
+So we can use it like this:
+PEMDAS => PE(M&D)(A&S)
