@@ -1,0 +1,1 @@
+.format() is use for already created string formatting
