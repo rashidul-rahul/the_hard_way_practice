@@ -1,0 +1,16 @@
+Excape,What it does
+\\,Backslash (\)
+\',Single-quote (')
+"\",",Double quate(")
+\a,ASCII bell (BEL)
+\b,ASCII Backspace (BS)
+\f,ASCII Formfeed (FF)
+\t,Horizontal Tab (TAB)
+\n,ASCII linefeed (LF)
+\N{name},Charecter named name in the Unicode database (Unicode only)
+\r,Carriage Return
+\uxxxx,Charecter with 16-bit digit hex value xxxx
+\Uxxxxxxxx,Charecter with 32 -bit hex value xxxxxxxx
+\v,ASCII variable tab (VT)
+\000,Charecter with octal value 000
+\xhh,Charecter with hex value hh
